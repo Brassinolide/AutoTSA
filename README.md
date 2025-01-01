@@ -1,5 +1,5 @@
 # AutoTSA
-自动对博客文件进行时间戳签名
+自动对hexo博客文章进行时间戳签名
 
 参见 https://crackme.net/articles/tsa/
 
